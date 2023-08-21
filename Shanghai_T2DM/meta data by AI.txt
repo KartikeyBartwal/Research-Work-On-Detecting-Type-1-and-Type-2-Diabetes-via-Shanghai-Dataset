@@ -1,0 +1,29 @@
+Date: The date column represents the date and time of each entry, providing a timestamp for the recorded measurements and events.
+
+CGM (mg/dL): This column contains Continuous Glucose Monitoring values, indicating the patient's blood glucose levels in milligrams per deciliter at different times.
+
+CBG (mg/dL): The Capillary Blood Glucose column represents the patient's blood glucose levels in milligrams per deciliter, measured through capillary blood samples.
+
+Blood Ketone (mmol/L): This column displays the patient's blood ketone levels in millimoles per liter, giving insights into their metabolic state.
+
+Dietary Intake (饮食 or 进食量): The dietary intake column records the patient's food consumption, which may influence their blood glucose levels. The Chinese translations "饮食" and "进食量" represent dietary intake.
+
+Insulin Dose - s.c.: This column captures the subcutaneous insulin doses administered to the patient, aiding in managing their blood glucose levels.
+
+Non-insulin Hypoglycemic Agents: This column might record the use of non-insulin medications to manage blood glucose levels. Data is not present in the provided rows.
+
+CSII - Bolus Insulin (Novolin R, IU): This column tracks the bolus insulin dosage delivered through a continuous subcutaneous insulin infusion (CSII) pump using Novolin R insulin.
+
+CSII - Basal Insulin (Novolin R, IU/H): This column represents the basal insulin dosage from the CSII pump, helping maintain stable blood glucose levels between meals and during sleep.
+
+Insulin Dose - i.v.: This column records the intravenous insulin doses administered, which can be used in specific situations to quickly adjust blood glucose levels.
+
+Reviewing the data:
+
+The first set of rows contain various measurements of blood glucose levels (CGM and CBG) and blood ketone levels at different time points on December 24, 2020.
+The "Dietary Intake" column notes specific foods consumed, including "Bread 30 g" and a translated Chinese entry "面包30g" (both meaning 30g of bread).
+The subsequent entries continue to record glucose and ketone levels, insulin doses, and dietary intake throughout the day.
+There are more dietary entries later, such as "Mushroom and tofu soup," "Shrimps," and other foods, along with their translated Chinese descriptions.
+Some entries mention the use of medications like "sitagliptin 100 mg" for managing blood glucose levels.
+Entries extend past midnight into December 25, continuing the pattern of glucose and ketone monitoring, dietary intake, and insulin doses.
+Overall, the dataset appears to include a sequence of measurements, interventions, and dietary information to monitor and manage the patient's diabetes-related parameters. It's a comprehensive dataset that can provide insights into how different factors influence blood glucose levels and overall diabetes management.
